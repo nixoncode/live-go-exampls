@@ -1,0 +1,18 @@
+GET http://localhost:3000
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-17T121911.200.txt
+
+###
+
+GET http://httpbin.org/anything?id=b628f70f-2dc9-45a0-be09-21248487f2f3&ts=1684315078
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-17T121824.200.json
+
+###
+
